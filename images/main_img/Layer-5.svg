@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 36" width="45" height="36">
+	<defs>
+		<filter id="flt1"> <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.6   0 0 0 0 0.6   0 0 0 0 0.6   0 0 0 1 0" /> </filter>
+		<image width="45" height="36" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAkBAMAAADvO65hAAAAJFBMVEX///8LgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOB51dLKAAAADHRSTlMAMb37//W5IgFc8RAiHYzcAAAAnUlEQVR4nGNggAIhExcXF2dFBjTAGOICAq4CaOJMbgVAkj1FAU282R1MlRjABDiXuGACrwkMXViEXVwWMLR478YEWxwYWBzQnQYELPQRB/oB6GKob0AsqHgX2MUgAGVBxVvgxkFZLCgUA7IAF8jbQB40AKCsBZBwQxdH2I1iDpiDR5wL7k4ICyaO7i+YOJZgGBWHCXFhTbZYEzowSAFzVFoZgid+DAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer 5" style="filter: url(#flt1)" href="#img1" x="0" y="0" />
+</svg>

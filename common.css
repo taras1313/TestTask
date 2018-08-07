@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 841px;
+    margin: 0 auto;
+}
+
+h2, h3 {
+    font-family: "Tahoma";
+    margin: 0;
+}
+
+p {
+    color: rgb(141,141,141);
+    font-family: "Times New Roman";
+    line-height: 1.5;
+    font-size: 14px;
+}
+
+ul {
+    padding-left: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+

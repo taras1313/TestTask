@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 44" width="45" height="44">
+	<defs>
+		<filter id="flt1"> <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.6   0 0 0 0 0.6   0 0 0 0 0.6   0 0 0 1 0" /> </filter>
+		<image width="45" height="44" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAsCAMAAADGmMENAAAA3lBMVEX///8LgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOALgOCt4TpKAAAASnRSTlMAG9jb/wHV/mfEHPsO1k6STdfxf6XeNGW5O+nCUJ2BBC6mbEixc4gRbSjjQZ6FGPkCK1rLF/0S0IxH3Qr4Ir5measDwBD6vbwx9SZpvlIAAAGESURBVHic3ZLZWsIwEIVLOW3FgkgVqIIooODK4r7VDdne/4XM9tE0/Zq2t56bSSd/mpk5MYxEFUyzkLyrwkWgmBWncGacwPTf2XDLJBxAzphZaJt0CJBO7UylEBE6h/4Rbdngcrby0CjlqGQbbjk7bVSwo2RsjY9VVJM3Y9pFLQdddpEmubJSKu1J9B72+aKOBotiJg3UWWzCl+gDHFps0UJbpttosXiEjkQfezhhiy56Mt1Dl8UK+nKfpzhjcYCBTIvPoeMMZfo8pclKZIYXKfRRdOSXuJKHICoRI/LRjNLXuKFhhLEV0tYYIxImHqZR+hZ30r6gxdkpvEmUvnceHqW7OS3qinrD9KRrsqPSzzq6r9IveKVB+MEr4R+qN1Rv7wiMjdec5u+gr3jD9IFPY/OOOM3fWEf1huoL3+EYOM0HFPPGYFyipnH6p5YE1yZxmtzoB4GP2e9GM56JeUPl0qEEmIeZOc+4GtrVZUIt+L1LXSbUak1bWq90GRlfuO5ylZD5A0+HJa0N9gYlAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer 4" style="filter: url(#flt1)" href="#img1" x="0" y="0" />
+</svg>
